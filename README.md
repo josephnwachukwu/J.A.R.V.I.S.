@@ -14,6 +14,7 @@
 * Mail Application setup to check mail
 * A hue bridge (Optional)
 * A Nest Thermostat (Optional)
+* Belkin Wemo Outlet
 
 ## Getting Started
 
@@ -24,6 +25,7 @@
 * Announces the name of the song and artist
 * Announces the current weather the high and low for day
 * Announces the total number of emails you have in your mailbox
+
 
 ## Installation
 
@@ -37,6 +39,7 @@
 - [ ] Randomize what song gets played from the playlist
 - [ ] Connect the system to the Hue Bridge
 - [ ] Connect the system to the Nest Thermostat
+- [ ] Connect to the Belkin Wemo
 
 ## Author
 
