@@ -13,6 +13,10 @@
 
 ## Features
 
+* alarm that wakes you up with music from an iTunes Playlist
+* announces the name of the song and artist
+* announces the current weather the high and low for day
+* announces the total number of emails you have in your mailbox
 
 ## Installation
 
