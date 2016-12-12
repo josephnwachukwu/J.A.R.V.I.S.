@@ -13,10 +13,10 @@
 
 ## Features
 
-* alarm that wakes you up with music from an iTunes Playlist
-* announces the name of the song and artist
-* announces the current weather the high and low for day
-* announces the total number of emails you have in your mailbox
+* Alarm that wakes you up with music from an iTunes Playlist
+* Announces the name of the song and artist
+* Announces the current weather the high and low for day
+* Announces the total number of emails you have in your mailbox
 
 ## Installation
 
@@ -26,9 +26,9 @@
 
 ## Tasks
 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Randomize what song gets played from the playlist
+- [ ] Connect the system to the Hue Bridge
+- [ ] Connect the system to the Nest Thermostat
 
 ## Author
 
