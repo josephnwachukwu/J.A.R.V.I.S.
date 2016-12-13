@@ -1,0 +1,6 @@
+{
+  "name": "J.A.R.V.I.S.",
+  "tagline": "Home Automation Scripts for the mac computer",
+  "body": "### Project J.A.R.V.I.S.\r\n**Just A Rather Very Intelligent System, or J.A.R.V.I.S.** is Tony Stark's artificially intelligent  computer. It is programmed to speak with a male voice in a British accent.\r\n\r\n### Automate Your Day\r\nAutomate your day by hearing your emails and todo list as well as news weather and the time. \r\n\r\n### Get the info you need\r\nIf you prefer to not use the automatic generator, push a branch named `gh-pages` to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.\r\n\r\n### Author\r\nJoseph Nwachukwu (@Josephnwachukwu)\r\n\r\n### Support or Contact\r\nHaving trouble with Pages? Check out our [documentation](https://help.github.com/pages) or [contact support](https://github.com/contact) and we’ll help you sort it out.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
