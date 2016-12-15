@@ -64,14 +64,15 @@ a:hover {
 }
 
 header {
-  padding: 35px 25px 25px 25px
+  padding: 35px 25px 25px 25px;
+  border-bottom: ##8bd3fb 1px solid;
 }
 
 header h1 .header__img {
   width:128px;
   height:128px;
   margin-right:50px;
-  vertical-algin:middle;
+  vertical-align:middle;
 }
 
 header h1 {
