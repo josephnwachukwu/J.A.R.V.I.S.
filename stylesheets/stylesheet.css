@@ -68,6 +68,11 @@ header {
   padding-bottom: 25px;
 }
 
+header h1 .header__img {
+  width:256px;
+  height:256px;
+}
+
 header h1 {
   font-family: 'Chivo', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 48px; font-weight: 900;
