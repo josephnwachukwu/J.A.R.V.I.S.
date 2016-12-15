@@ -51,7 +51,7 @@ body {
   font-family: 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 1em;
   line-height: 1.5;
-  color: #beba46;
+  color: #aaa;
   text-shadow: 0 1px 0 rgba(0, 0, 0, 0.8);
   background: #771414;
 }
@@ -80,7 +80,7 @@ header h2 {
   font-size: 24px;
   font-weight: normal;
   line-height: 1.3;
-  color: #aaa;
+  color: #beba46;
   letter-spacing: -1px;
 }
 
