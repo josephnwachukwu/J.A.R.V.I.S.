@@ -71,6 +71,7 @@ header h1 .header__img {
   width:128px;
   height:128px;
   margin-right:50px;
+  vertical-algin:middle;
 }
 
 header h1 {
