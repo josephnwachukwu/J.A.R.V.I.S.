@@ -52,7 +52,7 @@ body {
   font-size: 1em;
   line-height: 1.5;
   color: #beba46;
-  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8);
+  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.8);
   background: #771414;
 }
 
@@ -89,7 +89,7 @@ header h2 {
 }
 
 .inner {
-  width: 620px;
+  width: 80%;
   margin: 0 auto;
 }
 
