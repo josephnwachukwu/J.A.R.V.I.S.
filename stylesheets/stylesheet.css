@@ -91,6 +91,7 @@ header h2 {
 .inner {
   width: 80%;
   margin: 0 auto;
+	text-align:center;
 }
 
 #container .inner img {
@@ -247,25 +248,25 @@ h2 {
   margin-bottom: 8px;
   font-size: 22px;
   font-weight: bold;
-  color: #303030;
+  color: #beba46;
 }
 
 h3 {
   margin-bottom: 8px;
   font-size: 18px;
   font-weight: bold;
-  color: #d5000d;
+  color: #beba46;
 }
 
 h4 {
   font-size: 16px;
   font-weight: bold;
-  color: #303030;
+  color: #beba46;
 }
 
 h5 {
   font-size: 1em;
-  color: #303030;
+  color: #beba46;
 }
 
 h6 {
