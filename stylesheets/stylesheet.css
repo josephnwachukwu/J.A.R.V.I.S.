@@ -66,6 +66,7 @@ a:hover {
 header {
   padding: 35px 25px 25px 25px;
   border-bottom: #8bd3fb 1px solid;
+  background:#000;
 }
 
 header h1 .header__img {
